@@ -1,0 +1,26 @@
+{
+  "name": "api-2",
+  "version": "1.0.0",
+  "description": "Ayudantía de API nro. 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mili01gm/api-2.git"
+  },
+  "keywords": [
+    "AJAX",
+    "JSON",
+    "HTML",
+    "JS"
+  ],
+  "author": "mili01gm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mili01gm/api-2/issues"
+  },
+  "homepage": "https://github.com/mili01gm/api-2#readme"
+}
