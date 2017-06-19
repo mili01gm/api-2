@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mili01gm/api-2/issues"
   },
-  "homepage": "https://github.com/mili01gm/api-2#readme"
+  "homepage": "https://github.com/mili01gm/api-2#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
 }
